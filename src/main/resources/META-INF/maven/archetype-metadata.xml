@@ -14,7 +14,7 @@
             </includes>
         </fileSet>
     </fileSets>
-    <requiredProperties>
+    <!--<requiredProperties>
         <requiredProperty key="package-name"></requiredProperty>
-    </requiredProperties>
+    </requiredProperties>-->
 </archetype-descriptor>
